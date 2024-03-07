@@ -1,2 +1,2 @@
 # Effective stakeholder communication
-![](imgs/info1.png)
+![](imgs/pic5.png)
