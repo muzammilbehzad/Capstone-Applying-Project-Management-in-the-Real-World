@@ -16,7 +16,7 @@ Through this course, you will “observe” a project manager in a real-world sc
 
 By the end of this course, you will have developed a portfolio of project management artifacts that will demonstrate the skills you have learned throughout the entire program, such as your ability to manage stakeholders and teams, organize plans, and communicate project details. These artifacts can exhibit your career readiness when applying for jobs in the field. To further prepare you to interview for project management jobs, you will reflect on past projects, develop an “elevator pitch,” and anticipate common interview questions. Current Google project managers will continue to instruct and provide you with the strategies, tools, and resources to meet your goals.
 
-[Here](https://www.coursera.org/account/accomplishments/verify/MSWNXXDFK626) is my certification for this first course.
+[Here](https://www.coursera.org/account/accomplishments/verify/UUWQCG8MSRK8) is my certification for this first course.
 ![](imgs/course.png)
 
 
